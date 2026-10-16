@@ -1,0 +1,9 @@
+﻿setor,tipo_ocorrencia,afastamento,dias_afastamento,turno
+Armazem,Queda,Sim,3,Manha
+Operacao,Escorregao,Nao,0,Noite
+Manutencao,Corte,Sim,2,Tarde
+Armazem,Queda,Nao,0,Manha
+Operacao,Impacto,Sim,5,Noite
+Manutencao,Corte,Nao,0,Tarde
+Armazem,Escorregao,Nao,0,Manha
+Operacao,Queda,Sim,1,Noite
